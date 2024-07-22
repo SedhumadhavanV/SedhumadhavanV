@@ -4,7 +4,6 @@
                                                 
 - 🌱 I’m currently learning DSA
 - 📫 How to reach me :
-<br /> 
 - ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC5WijvFH7nlCJ4lKqdMYNKQ)
 - ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC5WijvFH7nlCJ4lKqdMYNKQ)
 
